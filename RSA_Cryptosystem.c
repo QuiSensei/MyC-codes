@@ -60,6 +60,7 @@ int main(void) {
     XPshowDecimal(XPrand());
     printf("\nPrinting odd number(from XPrand): \n");
     XPshowDecimal(XPisOdd(XPrand()));
+    printf("Hello world");
     return 0;
 }
 //=======================================================//
